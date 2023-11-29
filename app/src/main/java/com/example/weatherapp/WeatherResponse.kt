@@ -1,6 +1,5 @@
 package com.example.weatherapp
 
-
 data class WeatherResponse(
     val main: MainInfo,
     val weather: List<WeatherInfo>

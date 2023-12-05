@@ -25,3 +25,7 @@ The main activity fetches weather data for each location listed, displaying it i
 Ensure to replace the API key for OpenWeatherMap (`apiKey = "YOUR_API_KEY"`) in the code with a valid key obtained from the OpenWeatherMap website.
 
 Feel free to explore and contribute to enhance this weather app for Android!
+
+#### Additional Resources:
+- [Weather App Recording](https://drive.google.com/file/d/1x2q3dpIrCPCjklc4I8E3Vtue-pIZJS2i/view?usp=drive_link): Watch a recording of the weather app in action.
+- [APK File](https://drive.google.com/file/d/1x2mB2wdFNVr3DeWpL9kS1iBQdIxFnpzL/view?usp=drive_link): Download the APK file for installation.
